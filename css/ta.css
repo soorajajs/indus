@@ -1,0 +1,12 @@
+
+
+   table  tr td
+  {
+    border: 1px solid black;
+  }
+  .heading
+{
+	background-color: #8BD8BD;
+}
+
+tr:hover {background-color: #e0d2d2;}
